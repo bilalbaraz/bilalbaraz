@@ -29,7 +29,7 @@
 
 ## Current Projects
 
-T.B.D
+* 🔐 [passgen](https://github.com/bilalbaraz/passgen) — Generate passwords from the terminal
 
 ## GitHub Activity
 
