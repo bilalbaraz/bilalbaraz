@@ -30,6 +30,7 @@
 ## Current Projects
 
 * 🔐 [passgen](https://github.com/bilalbaraz/passgen) — Generate passwords from the terminal
+* 🍅 [pomodoro](https://github.com/bilalbaraz/pomodoro) — Focus sessions from the terminal
 
 ## GitHub Activity
 
