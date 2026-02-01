@@ -31,7 +31,7 @@
 
 * 🔐 [passgen](https://github.com/bilalbaraz/passgen) — Generate passwords from the terminal
 * 🍅 [pomodoro](https://github.com/bilalbaraz/pomodoro) — Focus sessions from the terminal
-* 🌐 [whois](https://github.com/bilalbaraz/whois) — (under development) Developer-friendly Go CLI tool to query WHOIS information for domains.
+* 🌐 [whois](https://github.com/bilalbaraz/whois) — Developer-friendly Go CLI tool to query WHOIS information for domains.
 
 ## GitHub Activity
 
