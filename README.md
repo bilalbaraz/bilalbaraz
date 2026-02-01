@@ -31,7 +31,13 @@
 
 * 🔐 [passgen](https://github.com/bilalbaraz/passgen) — Generate passwords from the terminal
 * 🍅 [pomodoro](https://github.com/bilalbaraz/pomodoro) — Focus sessions from the terminal
-* 🌐 [whois](https://github.com/bilalbaraz/whois) — Developer-friendly Go CLI tool to query WHOIS information for domains.
+* 🌐 [whois](https://github.com/bilalbaraz/whois) — Developer-friendly Go CLI tool to query WHOIS information for domains
+
+## Previous Projects
+
+* 🔐 [laravel-yammer-client](https://github.com/bilalbaraz/laravel-yammer-client) —  Yammer API Wrapper for Laravel
+* 🍅 [laravel-env-changer](https://github.com/bilalbaraz/laravel-env-changer) — This allows you to change env variables by a single command programatically
+* 🌐 [laravel-kibana](https://github.com/bilalbaraz/laravel-kibana) - An easy way to use the official Kibana REST API in your Laravel applications.
 
 ## GitHub Activity
 
