@@ -10,6 +10,9 @@
 ![CakePHP](https://img.shields.io/badge/CakePHP-363637?style=flat-square&logo=cakephp&logoColor=d33c44)
 ![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=white&style=flat-square)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&style=flat-square)
@@ -28,6 +31,8 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=flat-square)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white&style=flat-square)
+![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white&style=flat-square)
+
 
 ## Current Projects
 
