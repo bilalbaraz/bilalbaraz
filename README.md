@@ -24,9 +24,10 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=flat-square)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white&style=flat-square)
 
 ## Current Projects
 
