@@ -11,20 +11,16 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/Laravel-f61500?style=flat-square&logo=laravel&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Databases & DevOps
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
-![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white&style=flat-square)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white&style=flat-square)
-
-### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-### 📊 Observability
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white&style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=flat-square)
+
 
 ### 📱 Frontend & Mobile (Supporting)
 ![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React&style=flat-square)
