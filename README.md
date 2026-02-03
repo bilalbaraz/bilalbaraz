@@ -5,12 +5,11 @@
 > Backend-heavy Product Engineer building APIs, CLI tools and Open Source products.
 
 ### 🚀 Core Backend Stack
+![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f61500?style=flat-square&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&style=flat-square)
@@ -30,13 +29,14 @@
 ### 📱 Frontend & Mobile (Supporting)
 ![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🤖 AI & Developer Tools
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=flat-square&logo=perplexity&logoColor=088F8F)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&style=flat-square)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=flat-square)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## Current Projects
