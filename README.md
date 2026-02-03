@@ -39,6 +39,10 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=flat-square)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
+## 🔭 Currently
+- Building CLI tools  
+- Publishing open-source
+
 ## Current Projects
 
 * 🔗 [tinyurl-sdk](https://github.com/bilalbaraz/tinyurl-sdk) — Python SDK for the TinyURL API [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/tinyurl-sdk/)
