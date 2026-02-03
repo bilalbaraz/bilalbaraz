@@ -36,9 +36,10 @@
 
 ## Current Projects
 
-* 🔐 [passgen](https://github.com/bilalbaraz/passgen) — Generate passwords from the terminal
-* 🍅 [pomodoro](https://github.com/bilalbaraz/pomodoro) — Focus sessions from the terminal
-* 🌐 [whois](https://github.com/bilalbaraz/whois) — Developer-friendly Go CLI tool to query WHOIS information for domains
+* 🔗 [tinyurl-sdk](https://github.com/bilalbaraz/tinyurl-sdk) — Python SDK for the TinyURL API [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/tinyurl-sdk/)
+* 🔐 [passgen](https://github.com/bilalbaraz/passgen) — Generate passwords from the terminal ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white)
+* 🍅 [pomodoro](https://github.com/bilalbaraz/pomodoro) — Focus sessions from the terminal ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white)
+* 🌐 [whois](https://github.com/bilalbaraz/whois) — Developer-friendly Go CLI tool to query WHOIS information for domains ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white)
 
 ## Previous Projects
 
