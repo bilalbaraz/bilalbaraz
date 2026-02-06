@@ -43,6 +43,7 @@
 
 * 🔗 [tinyurl-sdk](https://github.com/bilalbaraz/tinyurl-sdk) — Python SDK for the TinyURL API [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/tinyurl-sdk/)
 * 🔐 [passgen](https://github.com/bilalbaraz/passgen) — Generate passwords from the terminal [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](https://github.com/bilalbaraz/passgen?tab=readme-ov-file#installation-homebrew)
+* 🕒 [kiosk-watch](https://github.com/bilalbaraz/kiosk-watch) — Full-screen kiosk clock
 * 🍅 [pomodoro](https://github.com/bilalbaraz/pomodoro) — Focus sessions from the terminal [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](https://github.com/bilalbaraz/pomodoro?tab=readme-ov-file#installation-homebrew)
 * 🌐 [whois](https://github.com/bilalbaraz/whois) — Developer-friendly Go CLI tool to query WHOIS information for domains [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](https://github.com/bilalbaraz/whois?tab=readme-ov-file#installation-homebrew)
 
